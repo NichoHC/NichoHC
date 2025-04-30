@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello! 👋 I'm NICHO
 
-<!--
-**NichoHC/NichoHC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 About Me
+- � **Self-taught developer** 
+- 🌱 Currently learning: `JavaScript`, `React`, and `Git`.
+- 🚀 2025 Goal: Contribute to an open-source project.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+![Lenguajes](https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode)
+
+### 📫 Reach Me
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nichcode4090@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholas-hurtado-cordoba-5b7649300)
+
+
