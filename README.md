@@ -1,9 +1,9 @@
 # Hello! 👋 I'm NICHO
 
 ### 🌱 About Me
-- � **Self-taught developer** 
-- 🌱 Currently learning: `JavaScript`, `React`, and `Git`.
-- 🚀 2025 Goal: Contribute to an open-source project.
+- 💻 Self-taught developer passionate about web development.  
+- 🌱 Always eager to learn and grow in software development.  
+- 🚀 Currently focused on JavaScript, React, and Git, looking for opportunities to apply and expand my skills.  
 
 
 ### 🛠 Tech Stack
